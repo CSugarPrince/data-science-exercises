@@ -1,0 +1,146 @@
+﻿,code,name,coordinates__latitude,coordinates__longitude,address,city,zip,state
+0,AAF,Academic Advisement - Farrior Hall,29.6502323,-82.3456386,100 Fletcher Dr,Gainesville,32611,FL
+1,AGRL,Plant Pathology Research Lab 2,fix!,fix!,fix!,fix!,,
+2,AND,Anderson Hall,29.6515682,-82.3418895,1507 W University Ave,Gainesville,32611,FL
+3,ANS,Animal Sciences,29.6311971,-82.351627,2250 Shealy Dr,Gainesville,32608,FL
+4,ANSC,Animal/Dairy Science Building,2250 Shealy Dr,Gainesville,32608,FL,,
+5,ARB,Academic Research - Health Sciences Center,29.6399441,-82.343777,1600 SW Archer Rd,Gainesville,32610,FL
+6,ARCH,Architecture,29.6477756,-82.3403431,1389 Stadium Rd,Gainesville,32611,FL
+7,ASF,Elmore Hall,29.6434801,-82.3661789,Elmore Hall for Administrative Services,Gainesville,32607,FL
+8,AUD,University Auditorium,29.6490269,-82.3428428,333 Newell Dr,Gainesville,32611,FL
+9,AWAX,Aquatic Weed Annex,fix!,fix!,fix!,fix!,,
+10,BAR,Bartram Hall,29.6439198,-82.3444094,Bartram Hall,Gainesville,32603,FL
+11,BEC,Beaty Commons,29.6441511,-82.3404853,11 Beaty Towers,Gainesville,32611,FL
+12,BEN,Benton Hall,29.6436325,-82.3549302,946 Center Dr,Gainesville,32611,FL
+13,BGH,Bruton-Geer Hall,29.6492321,-82.3590286,Bruton-Geer Hall,Gainesville,32603,FL
+14,BLK,Black Hall - Environmental Science,29.6484088,-82.3484143,365 Weil Hall,Gainesville,32611,FL
+15,BME,Broad Biomedical Engineering Building,28.5663939,-82.3775697,919 N Broad St,Brooksville,34601,FL
+16,BMS,Biomedical Sciences,29.6406329,-82.3455827,1275 Center Dr,Gainesville,32611,FL
+17,BRO,Broward Hall,29.6465352,-82.3420708,680 Broward Dr,Gainesville,32611,FL
+18,BRT,Bryant Space Science Center,29.6488872,-82.3457487,1772 Stadium Rd,Gainesville,32611,FL
+19,BRY,Bryan Hall,29.6513119,-82.3402381,1384 Union Rd,Gainesville,32611,FL
+20,BSU,Veterinary Medicine - Basic Sciences,40.0929927,-88.2209119,2001 S Lincoln Ave,Urbana,61802,IL
+22,CAR,Carleton Auditorium,29.6490716,-82.3417229,1475 Union Rd,Gainesville,32611,FL
+23,CBD,Classroom Building 105,29.6529864,-82.3429757,105 NW 16th St,Gainesville,32603,FL
+24,CGRC,Cancer/Genetics Research,29.6381861,-82.3516905,2033 Mowry Rd,Gainesville,32608,FL
+25,CHE,Chemical Engineering,29.6436325,-82.3549302,1006 Center Dr ,Gainesville,32611,FL
+26,CLB,Chemistry Laboratory Building,29.6508873,-82.344152,125 Buckman Dr,Gainesville,32611,FL
+27,COM,Communicore - Health Sciences Center,29.6399441,-82.343777,1600 SW Archer Rd,Gainesville,32610,FL
+28,CON,Constans Theatre,29.6460125,-82.346482,687 McCarty Dr,Gainesville,32603,FL
+29,CREC,Citrus Hall Ben Hill Griffin,157 Gale Lemerand Dr,Gainesville,32611,FL,,
+30,CRR,Carr Hall,29.6436325,-82.3549302,882 Newell Dr,Gainesville,32611,FL
+31,CSFL,Crops and Soils Field Lab,2024 IFAS Research Dr,Gainesville,32611,FL,,
+32,CSE,Computer Science Engineering,29.6481111,-82.344042,432 Newell Dr,Gainesville,32611,FL
+33,DAU,Dauer Hall - Arts & Sciences,29.6492697,-82.3439549,Dauer Hall,Gainesville,32603,FL
+34,DSB,Dental Science Building,41.662549,-91.5511509,Dental Science Bldg,Iowa City,52242,IA
+35,ESL,Environmental Stress Lab,29.6354601,-82.3646433,1786 IFAS Research Dr,Gainesville,32611,FL
+36,EYN,Entomology - Nematology,29.6348332,-82.3673518,1881 Natural Area Dr,Gainesville,32608,FL
+37,FAA,Fine Arts A,29.6477756,-82.3403431,1389 Stadium Rd,Gainesville,32611,FL
+38,FAB,Fine Arts B (Gallery),29.6482567,-82.3396763,400 SW 13th St,Gainesville,32611,FL
+39,FAC,Fine Arts C,29.6477604,-82.3404191,Fine Arts Building C,Gainesville,32611,FL
+40,FAD,Fine Arts D,29.6481722,-82.3405634,101 Fine Arts Bldg A,Gainesville,32611,FL
+41,FIF,Fifield Hall,29.6383873,-82.3611668,Fifield Hall,Gainesville,32603,FL
+42,FIRL,Plant Pathology Research Lab 1,30.5450208,-84.5928081,155 Research Rd,Quincy,32351,FL
+43,FLAV,Flavet Field,29.6466255,-82.3543578,Woodlawn Dr,Gainesville,32603,FL
+44,FLG,Florida Gym,29.6495145,-82.3472411,Florida Gymnasium,Gainesville,32608,FL
+45,FLI,Keene-Flint Hall,29.6513768,-82.3440501,80 Newell Dr,Gainesville,32611,FL
+46,FLO,Griffin-Floyd Hall,29.6500715,-82.34368,230 Newell Dr,Gainesville,32611,FL
+47,FSN,Food Science and Human Nutrition,29.6436325,-82.3549302,572 Newell Dr,Gainesville,32611,FL
+48,GER,Gerson Hall,29.6507589,-82.3401306,1368 Union Rd,Gainesville,32611,FL
+49,GRAO,Graham Hall,29.6458103,-82.3502568,21 Graham Area,Gainesville,32611,FL
+50,GRI,Grinter Hall - The Graduate School,29.6492787,-82.3420595,1523 Union Rd,Gainesville,32611,FL
+51,HARN,Harn Museum of Art,29.6370616,-82.3702266,3259 Hull Rd,Gainesville,32607,FL
+52,HCAD,Health Science Center Admin. Services,30.3470314,-81.6635251,653 W 8th St,Jacksonville,32209,FL
+53,HDC,Human Development Center,46.8013063,-92.0818267,1401 E 1st St,Duluth,55805,MN
+54,HGS,Hough Hall,29.6504049,-82.3406662,Hough Hall,Gainesville,32611,FL
+55,HOL,Holland Law Center,29.6498009,-82.3591506,Spessard L. Holland Law Center,Gainesville,32603,FL
+56,HPNP,Health Professions  Nursing and Pharmacy Complex,29.6416764,-82.3452497,1225 Center Dr,Gainesville,32611,FL
+57,HTUS,South Barn - Sam Wall Animal Science,fix!,fix!,fix!,fix!,,
+58,HUB,The Hub,29.6480995,-82.3454877,1765 Stadium Rd,Gainesville,32611,FL
+59,HUME,Hume Hall,29.644475,-82.3525058,Museum Rd,Gainesville,32601,FL
+60,IBLC,Institute of Black Culture,29.652285,-82.3421446,1510 W University Ave,Gainesville,32603,FL
+61,IHLC,Institute of Hispanic-Latino Cultures,29.6436325,-82.3549302,1504 W University Ave,Gainesville,32603,FL
+62,IIT,IFAS Information Technology,29.6465201,-82.3443187,1445 Date Palm Drive  Bldg 0089,Gainesville,32611,FL
+63,INF,Infirmary,29.6495392,-82.3465201,280 Fletcher Dr,Gainesville,32611,FL
+64,JENB,Jennings Hall B,29.6444873,-82.341553,1515 Museum Rd,Gainesville,32612,FL
+65,KEY,Keys Complex - Student Housing,29.649183,-82.338029,1231 SW 3rd Ave,Gainesville,32601,FL
+66,LAR,Larsen Hall,29.6431067,-82.3473828,Larsen Hall,Gainesville,32603,FL
+67,LBW,Library West,29.6508246,-82.3417565,1545 W University Ave,Gainesville,32611,FL
+68,LEI,Leigh Hall,29.6504567,-82.3442503,Leigh Hall,Gainesville,32603,FL
+69,LIT,Little Hall,29.648841,-82.3407919,1400 Stadium Rd,Gainesville,32611,FL
+70,LSP,Livestock Pavilion  Webb,29.6339886,-82.3511053,Webb Livestock Pavilion,Gainesville,32608,FL
+71,MAE,Materials Engineering,29.6476334,-82.3490228,Rhines Hall,Gainesville,32603,FL
+72,MAEA,Mechanical and Aerospace Engineering  Bldg. A,29.6436325,-82.3549302,Mechanical and Aerospace Engineering Building A,Gainesville,32611,FL
+73,MAEB,Mechanical and Aerospace Engineering  Bldg. B,633 Gale Lemerand Dr,Gainesville,32611,FL,,
+74,MAEC,Mechanical and Aerospace Engineering  Bldg. C,571 Gale Lemerand Drive,Gainesville,32611,FL,,
+75,MAT,Matherly Hall,29.6516306,-82.3410518,1405 W University Ave,Gainesville,32611,FL
+76,MBI,McKnight Brain Institute,29.6436325,-82.3549302,1149 Newell Dr,Gainesville,32610,FL
+77,MCCA,McCarty Hall  Bldg. A,29.6466758,-82.3453474,McCarty Hall C,Gainesville,32603,FL
+78,MCCB,McCarty Hall  Bldg. B,29.6467422,-82.3449281,McCarty Hall B,Gainesville,32603,FL
+79,MCCC,McCarty Hall  Bldg. C,29.6466758,-82.3453474,McCarty Hall C,Gainesville,32603,FL
+80,MCCD,McCarty Hall  Bldg D,29.6465202,-82.3443186,McCarty Hall D,Gainesville,32603,FL
+81,MCG,McGuire Center for Lepidoptera Research,29.6358453,-82.3712611,McGuire Center for Lepidoptera Research,Gainesville,32608,FL
+82,MCSB,Microbiology and Cell Science,29.6399739,-82.3628019,1355 Museum Drive,Gainesville,32603,FL
+83,MSB,Medical Sciences - Stetson Hall,1345 Center Dr,Gainesville,32603,FL,,
+84,MSL,Marston Science Library,29.6479572,-82.3439199,444 Newell Dr,Gainesville,32611,FL
+85,MUB,Music Building,29.6481303,-82.3425575,435 Newell Dr,Gainesville,32611,FL
+86,MUS,Florida Museum of Natural History - Dickinson Hall,29.6445166,-82.3438233,1659 Museum Rd,Gainesville,32611,FL
+87,NEB,Engineering Building,29.6483809,-82.3485106,1949 Stadium Rd,Gainesville,32611,FL
+88,NEW,Newell Hall,29.6490871,-82.3450571,Newell Hall,Gainesville,32603,FL
+89,NPB,Physics Building,29.6437825,-82.3496895,2001 Museum Rd,Gainesville,32603,FL
+90,NRB,Nuclear Reactor,29.6436325,-82.3549302,fix!,fix!,fix!,fix!
+91,NRG,Norman Gymnasium,35.220559,-97.4448615,119 W Main St,Norman,73069,OK
+92,NRN,Norman Hall,29.6469686,-82.3381103,Norman Hall,Gainesville,32601,FL
+93,NRNA,Norman Hall Addition,29.6466447,-82.337686,Norman Hall Addition,Gainesville,32601,FL
+94,NSC,Nuclear Sciences Center,30.5810924,-96.3629133,1095 Nuclear Science Rd,College Station,77843,TX
+95,NUL,Animal Nutrition Labratory,40.1038158,-88.2251614,1207 W Gregory Dr,Urbana,61801,IL
+96,NZH,Newins-Ziegler Hall,29.645392,-82.345686,Newins-Ziegler Hall,Gainesville,32603,FL
+97,ODAA,Office of Development and Alumni Affairs,29.6398626,-82.343434,1600 SW Archer Rd,Gainesville,32610,FL
+98,OBS,Student Observatory,37.4191274,-122.181827,30 Alta Rd,Palo Alto,94305,CA
+99,PCPA,Phillips Center for the Performing Arts,29.6352583,-82.3693058,3201 Hull Rd,Gainesville,32611,FL
+100,PEA,Peabody Hall,29.6500771,-82.3419924,Union Rd,Gainesville,32603,FL
+101,PHL,Phelps Laboratory,41.1091195,-73.8639555,701 N Broadway,Sleepy Hollow,10591,NY
+102,PKY,P. K. Yonge Developmental Research School  1080 SW 11 Street,29.6400654,-82.3346766,1080 SW 11th St,Gainesville,32601,FL
+103,POOL,Florida Pool,29.6462255,-82.3409362,224 Fletcher Dr,Gainesville,32608,FL
+104,POW,Powell Hall - New Museum of Natural History,29.6358224,-82.3704006,3215 Hull Rd,Gainesville,32611,FL
+105,PPD,Physical Plant Offices,29.6443197,-82.3705092,Physical Plant Offices,Gainesville,32607,FL
+106,PRL,Food and Environmental Toxicology Lab,29.6436325,-82.3549302,1642 SW 23 Dr,Gainesville,32611,FL
+107,PSB,Shands Patient Services,29.6388866,-82.3423068,1515 SW Archer Rd,Gainesville,32608,FL
+108,PSF,Plant Science Facility,29.6436325,-82.3549302,2475 Memorial Road,Gainesville,32611,FL
+109,PST,Particle Sciences and Technology,40.671417,-75.374627,3894 Courtney St,Bethlehem,18017,PA
+110,PSY,Psychology,29.6728469,-82.3841639,2121 NW 40th Terrace Ste B,Gainesville,32605,FL
+111,PUGH,Pugh Hall,29.6494289,-82.3454631,Pugh Hall,Gainesville,32603,FL
+112,RCD,Recreation Center Dining,29.650204,-82.3464309,114 Rec Center,Gainesville,32611,FL
+113,REI,Reitz Union,29.6463395,-82.3476523,686 Museum Rd,Gainesville,32611,FL
+114,RFC,Recreation and Fitness Center,29.6501107,-82.3467597,244 Fletcher Dr,Gainesville,32603,FL
+115,RHN,Rhines Hall,29.6476341,-82.3490225,Rhines Hall,Gainesville,32603,FL
+116,RLA,Reed Lab,42.3195742,-71.0979212,55 Dimock St,Boston,2119,MA
+117,RL1,Research Laboratory,29.634407,-82.371461,1911 SW 34th St,Gainesville,32608,FL
+118,RNK,Rinker Hall,29.6469592,-82.3431606,573 Newell Dr,Gainesville,32603,FL
+119,ROG,Rogers Hall,29.6449409,-82.3449972,1741 Museum Rd,Gainesville,32603,FL
+120,ROL,Rolfs Hall,29.6492897,-82.3444921,Rolfs Hall,Gainesville,32603,FL
+121,SBH,Steinbrenner Band Hall,29.6436325,-82.3549302,fix!,fix!,fix!,FL
+122,SIS,Sisler Hall - Chemistry Research Bldg,29.6499992,-82.3441681,1680 Union Rd,Gainesville,32611,FL
+123,SMA,Library East  Smathers,29.6515513,-82.3428147,Library East,Gainesville,32603,FL
+124,SOC,Stephen C. O'Connell Center Pool,29.6462255,-82.3409362,250 Gale Lemerand Dr,Gainesville,32611,FL
+125,SPRC,Springs Commons Building,29.6423855,-82.3404823,2336 Fraternity Dr,Gainesville,32612,FL
+126,SRPT,IFAS Support Services,29.6465201,-82.3443187,fix!,fix!,fix!,FL
+127,SSB,Criser Hall,29.6501881,-82.341609,1478 Union Rd,Gainesville,32611,FL
+128,STA,Stadium  Ben Hill Griffin,29.6499357,-82.3485788,157 Gale Lemerand Dr,Gainesville,32601,FL
+129,STZ,Stuzin Hall - Business Building,29.650815,-82.3411782,1454 Union Rd,Gainesville,32611,FL
+130,SWC,SW Recreation Complex,27.8920203,-82.8187822,13120 Vonn Rd,Largo,33774,FL
+131,THC,Teaching Hospital and Clinics  Shands,29.659113,-82.3928509,4645 NW 8th Ave,Gainesville,32605,FL
+132,TIG,Tigert Hall - UF Administration,29.6436325,-82.3549302,fix!,fix!,fix!,FL
+133,TUR,Turlington Hall,29.6489642,-82.343747,330 Newell Dr,Gainesville,32611,FL
+134,UST,Ustler Hall,29.6504432,-82.3468705,Ustler Hall,Gainesville,32608,FL
+135,VAN,Van Fleet Hall - ROTC,29.6485548,-82.3511003,204 Van Fleet Hall,Gainesville,32611,FL
+136,VET,Veterinary Science,29.6332527,-82.3502601,2015 SW 16th Ave,Gainesville,32608,FL
+137,VMAW,Veterinary Medicine - Academic Wing,29.6338194,-82.3487936,Veterinary Medicine Academic Bldg,Gainesville,32608,FL
+138,WAL,Walker Hall,29.6493792,-82.3415396,1489 Union Rd,Gainesville,32611,FL
+139,WALC,Wallace Hall,33.9958184,-85.9915726,1001 George Wallace Dr,Gadsden,35903,AL
+141,WAU,Lake Wauburg,29.5298432,-82.30313,Lake Wauburg,FL,,
+142,WEIL,Weil Hall,29.6483808,-82.3485109,Weil Hall,Gainesville,32603,FL
+143,WEIM,Weimer Hall,29.6478351,-82.3475276,Weimer Hall,Gainesville,32603,FL
+144,WM,Williamson Hall,29.6436325,-82.3549302,1843 Stadium Rd,Gainesville,32611,FL
+145,WSFL,Weed Sciences Field Building,29.6391841,-82.3637625,Weed Sciences Field Bldg,Gainesville,32603,FL
+146,YON,Yon Hall,29.6498808,-82.3478071,1908 Stadium Rd,Gainesville,32611,FL
